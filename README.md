@@ -59,6 +59,14 @@ Just open the index.html file in your browser—no installation required.
 
 This project is free to use and modify.
 
+## Screenshots
+
+![game start](https://github.com/Harshal-36/Rock-Paper-Scissor/blob/b17fffe3c4ccd240d00f49f3e8814602ff952384/Screenshots/Screenshot%202025-12-11%20232133.png)
+![game won](https://github.com/Harshal-36/Rock-Paper-Scissor/blob/b17fffe3c4ccd240d00f49f3e8814602ff952384/Screenshots/Screenshot%202025-12-11%2023240812.png)
+![game tie](https://github.com/Harshal-36/Rock-Paper-Scissor/blob/b17fffe3c4ccd240d00f49f3e8814602ff952384/Screenshots/Screenshot%202025-12-11%2023252856.png)
+![game lose](https://github.com/Harshal-36/Rock-Paper-Scissor/blob/b17fffe3c4ccd240d00f49f3e8814602ff952384/Screenshots/Screenshot%202025-12-11%2023262378.png)
+
+
 ## 👤 Author
 
 Harshal Nikumbh
