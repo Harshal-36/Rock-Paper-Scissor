@@ -1,8 +1,8 @@
-🎮 Rock-Paper-Scissors Game
+# 🎮 Rock–Paper–Scissors Game – HTML, CSS & JavaScript
 
 A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The player competes against the computer, with live score updates, a reset feature, and an auto-play mode.
 
-🚀 Features
+## 🚀 Features
 
 🪨📄✂️ Interactive buttons for Rock, Paper, Scissors
 
@@ -16,7 +16,8 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 
 🎨 Clean UI with icons for each move
 
-📂 Project Structure
+## 📂 Project Structure
+```
 project/
 │── index.html
 │── css/
@@ -27,8 +28,8 @@ project/
       ├── rock-emoji.png
       ├── paper-emoji.png
       └── scissors-emoji.png
-
-🕹️ How to Play
+```
+## 🕹️ How to Play
 
 Click Rock, Paper, or Scissors.
 
@@ -40,7 +41,7 @@ Use Reset Score to restart.
 
 Click Auto Play to let the game run automatically.
 
-💻 Technologies Used
+## 💻 Technologies Used
 
 HTML5
 
@@ -50,10 +51,16 @@ JavaScript (ES6)
 
 localStorage API
 
-📦 Setup
+## 📦 Setup
 
 Just open the index.html file in your browser—no installation required.
 
-📜 License
+## 📜 License
 
 This project is free to use and modify.
+
+## 👤 Author
+
+Harshal Nikumbh
+
+Frontend Developer (HTML/CSS/JS)
